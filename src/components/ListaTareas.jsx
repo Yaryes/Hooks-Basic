@@ -82,7 +82,7 @@ export const ListaTareas = () => {
                 <div className="mb-3">
                     <input
                         type="text"
-                        className="form-control"
+                        className="form-control "
                         name="tarea"
                         placeholder="Ingrese Tarea Nueva"
                         value={tarea}
